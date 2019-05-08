@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="433"
+   height="700"
+   viewBox="0 0 433 700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="CardioProtein.svg"
+   inkscape:export-filename="/home/findlay/Software/Python/Science/VesiclesQRreader/Images/CardioProtein.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="334.31723"
+     inkscape:cy="353.72737"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3773" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36216)">
+    <circle
+       style="color:#000000;fill:#fff8dd;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="path4136"
+       cx="117.57144"
+       cy="909.37616"
+       r="78.745972"
+       d="m 196.31741,909.37616 c 0,43.4902 -35.25577,78.74597 -78.74597,78.74597 -43.490198,0 -78.74597,-35.25577 -78.74597,-78.74597 0,-43.4902 35.255772,-78.74597 78.74597,-78.74597 43.4902,0 78.74597,35.25577 78.74597,78.74597 z"
+       sodipodi:cx="117.57144"
+       sodipodi:cy="909.37616"
+       sodipodi:rx="78.745972"
+       sodipodi:ry="78.745972"
+       transform="matrix(1.5383206,0,0,1.5383206,-23.327587,-795.74141)" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#000000;stroke-width:0.8584944;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 225.88318,520.19586 c 5.14162,0.72228 9.25713,-1.62687 13.65856,-3.1202 5.60342,-2.8439 13.05746,-3.82032 16.74138,-8.60122 0.59061,-3.8555 -1.09957,-7.4228 -10.40126,-10.02825 -4.35939,1.33358 -8.06348,3.71974 -11.16955,7.06648 -2.87747,5.6225 -8.82563,5.83239 -13.29557,8.6479 -0.67483,2.21399 0.91785,4.21604 4.46644,6.03529 z"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:61.53282547px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="49.293617"
+       y="399.11957"
+       id="text4140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142"
+         x="49.293617"
+         y="399.11957"
+         style="font-size:40px"> EV marker found</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Samyak Tamil;-inkscape-font-specification:Samyak Tamil Medium"
+       x="12.762463"
+       y="822.16412"
+       id="text2998"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/findlay/Software/Python/Science/VesiclesQRreader/Images/Cancer.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="12.762463"
+         y="822.16412"
+         style="font-size:35px">miR-34a</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="865.91412"
+         id="tspan3008"
+         style="font-size:35px"> - Class:- mircoRNA</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="909.66412"
+         id="tspan3010"
+         style="font-size:35px"> - Size:- N/A</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="953.41412"
+         style="font-size:35px"
+         id="tspan3771"> - CVD marker.</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="997.16412"
+         id="tspan3004"
+         style="font-size:35px" /></text>
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.142857,125.71429 25.714283,-1.42857 5.71429,17.85714 -7.85715,7.14286 -13.57142,-0.71429 z"
+       id="path3012"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.36216)" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.5,251.78572 -33.214286,-11.07143 -4.2857141,10 3.2142861,2.85714 -1.428572,5.71429 -1.071428,5 20,1.42857 21.071428,-0.35714 z"
+       id="path3014"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.36216)" />
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 155.56349,356.04306 23.23351,-2.52538 8.5863,18.18274 -5.55584,14.14214 -16.16244,5.05076 -8.08122,-13.13198 -4.54569,-20.70813 z"
+       id="path3016"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.36216)" />
+    <text
+       xml:space="preserve"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Samyak Tamil;-inkscape-font-specification:Samyak Tamil Medium"
+       x="338.57144"
+       y="722.36218"
+       id="text3767"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3769"
+         x="338.57144"
+         y="722.36218"
+         style="font-size:35px">miR-34a</tspan></text>
+    <g
+       id="g3933"
+       transform="translate(-26,34)">
+      <path
+         transform="translate(0,352.36216)"
+         inkscape:connector-curvature="0"
+         id="path3775"
+         d="m 245,250 0,15"
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,352.36216)"
+         inkscape:connector-curvature="0"
+         id="path3777"
+         d="m 255,250 0,15"
+         style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,352.36216)"
+         inkscape:connector-curvature="0"
+         id="path3779"
+         d="m 265,251 0,14"
+         style="fill:none;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,352.36216)"
+         inkscape:connector-curvature="0"
+         id="path3781"
+         d="m 275,252 0,13"
+         style="fill:none;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-3"
+         d="m 285,603.36216 0,14"
+         style="fill:none;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-3-6"
+         d="m 295,603.36216 0,14"
+         style="fill:none;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3777-7"
+         d="m 305,602.36216 0,15"
+         style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-5"
+         d="m 315,603.36216 0,14"
+         style="fill:none;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3781-3"
+         d="m 325,604.36216 0,13"
+         style="fill:none;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3775-5"
+         d="m 335,602.36216 0,15"
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-3-6-6"
+         d="m 345,603.36216 0,14"
+         style="fill:none;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3777-7-2"
+         d="m 355,602.36216 0,15"
+         style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3781-3-2"
+         d="m 365,604.36216 0,13"
+         style="fill:none;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3775-5-7"
+         d="m 375,602.36216 0,15"
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-3-0"
+         d="m 385,603.36216 0,14"
+         style="fill:none;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-3-6-9"
+         d="m 395,603.36216 0,14"
+         style="fill:none;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,352.36216)"
+         inkscape:connector-curvature="0"
+         id="path3003"
+         d="m 234.10285,250.48212 165.91756,0"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

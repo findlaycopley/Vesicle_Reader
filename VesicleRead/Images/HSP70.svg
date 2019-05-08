@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="433"
+   height="700"
+   viewBox="0 0 433 700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="HSP70.svg"
+   inkscape:export-filename="/home/findlay/Software/Python/Science/VesiclesQRreader/Images/HSP70.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="358.71931"
+     inkscape:cy="391.02737"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36216)">
+    <circle
+       style="color:#000000;fill:#fff8dd;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4136"
+       cx="117.57144"
+       cy="909.37616"
+       r="78.745972"
+       d="m 196.31741,909.37616 c 0,43.4902 -35.25577,78.74597 -78.74597,78.74597 -43.490198,0 -78.74597,-35.25577 -78.74597,-78.74597 0,-43.4902 35.255772,-78.74597 78.74597,-78.74597 43.4902,0 78.74597,35.25577 78.74597,78.74597 z"
+       sodipodi:cx="117.57144"
+       sodipodi:cy="909.37616"
+       sodipodi:rx="78.745972"
+       sodipodi:ry="78.745972"
+       transform="matrix(-0.61977344,-1.4079457,1.4079457,-0.61977344,-1048.6087,1338.7546)" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#000000;stroke-width:1.14807844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 84.757655,530.32627 c -1.886209,-6.68238 -6.978907,-10.45397 -11.178167,-15.03663 -6.499928,-5.32619 -11.71121,-13.92367 -19.547789,-15.85681 -5.037268,1.35443 -8.492893,5.3452 -6.670244,18.13403 3.981059,4.61727 8.897393,7.86537 14.667263,9.86392 8.432162,0.49262 11.893881,7.65994 17.748362,11.61405 3.07345,-0.36688 4.665792,-3.39498 4.980575,-8.71856 z"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:61.53282547px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="49.293617"
+       y="399.11957"
+       id="text4140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142"
+         x="49.293617"
+         y="399.11957"
+         style="font-size:40px"> EV marker found</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.53282547px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="285.27039"
+       y="624.47614"
+       id="text4140-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142-6"
+         x="285.27039"
+         y="624.47614"
+         style="font-size:40px">HSP70</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Samyak Tamil;-inkscape-font-specification:Samyak Tamil Medium"
+       x="12.762463"
+       y="822.16412"
+       id="text2998"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="12.762463"
+         y="822.16412"
+         style="font-size:35px">GAPDH</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="865.91412"
+         id="tspan3008"
+         style="font-size:35px"> - Class:- Heat shock</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="909.66412"
+         style="font-size:35px"
+         id="tspan3039">Protein </tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="953.41412"
+         id="tspan3010"
+         style="font-size:35px"> - Size:- 70kDa</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="997.16412"
+         style="font-size:35px"
+         id="tspan3012"> - Normal EV marker</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="1040.9141"
+         id="tspan3004"
+         style="font-size:35px" /></text>
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.22778833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.471594,721.00081 c -8.046487,-0.85946 -22.274619,3.20247 -14.258631,-27.49025 -0.472076,-8.88481 10.42709,-11.47957 17.173378,-15.95364 7.288725,-3.66406 9.330972,1.25794 11.913291,5.29602 -1.948499,6.16157 3.851822,10.42436 5.910604,15.60396 -4.178418,7.44059 -1.622767,14.69881 -20.738642,22.54391 z"
+       id="path3012"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:1.05101299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 204.64851,709.35375 c -1.45069,16.67524 0.30434,27.82449 3.4143,36.6382 4.64842,2.80566 7.62275,-0.0746 11.43412,-0.11181 -0.7779,-2.30491 -0.34829,-3.76189 1.38733,-4.30177 2.17347,0.12553 0.71985,-3.01702 6.1017,-1.04554 1.95298,0.9519 3.68731,0.45646 5.26338,-1.08655 -3.17773,-4.53409 -5.99473,-9.99141 -7.0946,-19.84369 -4.3002,-19.19632 -6.3733,-15.43187 -9.26609,-20.11819 -7.12592,-3.69836 -7.49388,6.57866 -11.24015,9.86939 z"
+       id="path3014"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:2.00866199px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 247.85408,586.2374 c -17.18523,-8.13157 -18.29005,-25.57284 -23.44488,-40.66938 -1.23137,-21.28308 16.13212,-22.01391 26.47898,-30.49999 11.14641,1.74852 22.61531,4.2065 30.49543,-1.23081 14.68965,1.30742 15.47152,16.52264 22.36521,25.62601 -3.46368,16.9078 -11.68568,17.16153 -17.60229,25.48404 -6.10657,14.9654 -19.59506,20.84535 -34.39165,25.11535 z"
+       id="path3016"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Samyak Tamil;-inkscape-font-specification:Samyak Tamil Medium"
+       x="560"
+       y="103.57143"
+       id="text2997"
+       sodipodi:linespacing="125%"
+       transform="translate(0,352.36216)"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="560"
+         y="103.57143" /></text>
+  </g>
+</svg>

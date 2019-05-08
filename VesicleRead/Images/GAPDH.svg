@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="433"
+   height="700"
+   viewBox="0 0 433 700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="CD81.svg"
+   inkscape:export-filename="/home/findlay/Software/Python/Science/VesiclesQRreader/Images/CD81.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="257.10407"
+     inkscape:cy="412.93367"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36216)">
+    <circle
+       style="color:#000000;fill:#fff8dd;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4136"
+       cx="117.57144"
+       cy="909.37616"
+       r="78.745972"
+       d="m 196.31741,909.37616 c 0,43.4902 -35.25577,78.74597 -78.74597,78.74597 -43.490198,0 -78.74597,-35.25577 -78.74597,-78.74597 0,-43.4902 35.255772,-78.74597 78.74597,-78.74597 43.4902,0 78.74597,35.25577 78.74597,78.74597 z"
+       sodipodi:cx="117.57144"
+       sodipodi:cy="909.37616"
+       sodipodi:rx="78.745972"
+       sodipodi:ry="78.745972"
+       transform="matrix(-1.4128816,0.60843714,-0.60843714,-1.4128816,878.81066,1824.0992)" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#000000;stroke-width:1.14807844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 79.517791,684.27173 c -6.69732,1.83244 -10.509723,6.89466 -15.125984,11.05695 -5.378261,6.45691 -14.017358,11.59892 -16.013411,19.41971 1.313894,5.04799 5.276761,8.53558 18.079835,6.81578 4.649118,-3.94382 7.936616,-8.83389 9.981484,-14.58751 0.560367,-8.42793 7.755279,-11.83193 11.756327,-17.65444 -0.342172,-3.0763 -3.357376,-4.69293 -8.678251,-5.05049 z"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:61.53282547px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="49.293617"
+       y="399.11957"
+       id="text4140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142"
+         x="49.293617"
+         y="399.11957"
+         style="font-size:40px"> EV marker found</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.53282547px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="285.27039"
+       y="624.47614"
+       id="text4140-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142-6"
+         x="285.27039"
+         y="624.47614"
+         style="font-size:40px">GAPDH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Samyak Tamil;-inkscape-font-specification:Samyak Tamil Medium"
+       x="12.762463"
+       y="822.16412"
+       id="text2998"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="12.762463"
+         y="822.16412"
+         style="font-size:35px">GAPDH</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="865.91412"
+         id="tspan3008"
+         style="font-size:35px"> - Class:- GAPDH </tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="909.66412"
+         id="tspan3010"
+         style="font-size:35px"> - Size:- 37kDa</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="953.41412"
+         style="font-size:35px"
+         id="tspan3012"> - Normal EV marker</tspan><tspan
+         sodipodi:role="line"
+         x="12.762463"
+         y="997.16412"
+         id="tspan3004"
+         style="font-size:35px" /></text>
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.22778833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 270.01508,707.08964 c -0.9241,8.03932 3.02334,22.29964 -27.60395,14.03722 -8.88832,0.40065 -11.3954,-10.51902 -15.8151,-17.30105 -3.60536,-7.31794 1.33289,-9.32056 5.3916,-11.87034 6.14571,1.99796 10.45498,-3.76791 15.65096,-5.785 7.40677,4.23809 14.6853,1.74086 22.37649,20.91917 z"
+       id="path3012"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:1.98233163px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 247.39365,577.67461 c 31.42844,2.98884 52.48313,-0.15225 69.1534,-5.88415 5.36212,-8.72464 -0.0251,-14.37805 -0.0376,-21.56708 -4.35899,1.43223 -7.10042,0.59987 -8.09235,-2.68178 0.2697,-4.09739 -5.67934,-1.40343 -1.87944,-11.524 1.82494,-3.66899 0.91681,-6.94753 -1.96951,-9.94348 -8.59971,5.92462 -18.93522,11.15492 -37.53383,13.07998 -36.27048,7.8194 -29.20195,11.78644 -38.08446,17.17135 -7.08333,13.38383 12.2941,14.23361 18.44379,21.34916 z"
+       id="path3014"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.58624,513.35998 -20.340154,11.50878 -15.077793,-13.30401 -0.4907,-15.1864 12.846829,-11.03148 12.616218,8.86487 12.36551,17.22162 z"
+       id="path3016"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Samyak Tamil;-inkscape-font-specification:Samyak Tamil Medium"
+       x="560"
+       y="103.57143"
+       id="text2997"
+       sodipodi:linespacing="125%"
+       transform="translate(0,352.36216)"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="560"
+         y="103.57143" /></text>
+  </g>
+</svg>
